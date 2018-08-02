@@ -1,1 +1,1 @@
-http://stimulating-paint.surge.sh/
+stimulating-paint.surge.sh
